@@ -1,5 +1,3 @@
----
-
 ## World Gen
 
 **World Gen** is a visual experiment with the **Wave Function Collapse (WFC)** algorithm implemented in **Java using Greenfoot**.
