@@ -1,6 +1,6 @@
 ---
 
-# World Gen
+## World Gen
 
 **World Gen** is a visual experiment with the **Wave Function Collapse (WFC)** algorithm implemented in **Java using Greenfoot**.
 The project generates a procedural color map where each tile collapses from multiple possibilities into a final state based on adjacency constraints.
