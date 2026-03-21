@@ -84,7 +84,7 @@ This creates smooth transitions instead of chaotic noise.
 2. Clone the repository
 
 ```bash
-git clone https://github.com/dadkomala/world-gen.git
+git clone https://github.com/dadkomala-coder/world-generation.git
 ```
 
 3. Open the project in **Greenfoot**
@@ -128,7 +128,7 @@ This project is a **playground for experimenting with procedural generation tech
 **David Lebediev Goncear**
 
 GitHub:
-[@dadkomala](https://github.com/dadkomala)
+[@dadkomala](https://github.com/dadkomala-coder)
 
 ---
 
